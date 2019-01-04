@@ -16,7 +16,6 @@ public class Main {
 
 		calculateScore(true, score, levelComplete, bonus);
 
-
 	}
 
 	public static void calculateScore(boolean gameOver, int score, int levelComplete, int bonus) {
