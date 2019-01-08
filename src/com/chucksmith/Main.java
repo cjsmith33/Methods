@@ -19,20 +19,20 @@ public class Main {
 //		returnValue = calculateScore(gameOver, score, levelComplete, bonus);
 //		System.out.println("Your final score was " + returnValue);
 
-		score = 1001;
+		score = 1500;
 		name = "Chuck Smith";
 
 		displayHighScorePosition(name, calculateHighScorePosition(score));
 
-		score = 999;
+		score = 900;
 		name = "Billy Bob";
 		displayHighScorePosition(name, calculateHighScorePosition(score));
 
-		score = 499;
+		score = 400;
 		name = "Jack Diane";
 		displayHighScorePosition(name, calculateHighScorePosition(score));
 
-		score = 0;
+		score = 50;
 		name = "Peter Parker";
 		displayHighScorePosition(name, calculateHighScorePosition(score));
 
